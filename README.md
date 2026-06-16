@@ -8,6 +8,12 @@ The 2025 results repository remains available as a reference: https://github.com
 
 Each team should maintain its own public GitHub repository and provide the final link in `projects/projects-2026.md`.
 
+## Agent Dashboard
+
+Course project operations dashboard:
+
+https://lincolnkerry.github.io/Generative-AI-Blockchain-2026/dashboard.html
+
 Required team repository structure:
 
 ```text
